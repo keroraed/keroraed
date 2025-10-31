@@ -114,12 +114,6 @@ const Kerolos = {
 
 ---
 
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=keroraed&bg_color=1a1b27&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-
----
-
 ## 💼 Featured Projects
 
 <div align="center">
