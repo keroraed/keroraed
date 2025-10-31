@@ -20,7 +20,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=keroraed&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/keroraed)
 [![GitHub followers](https://img.shields.io/github/followers/keroraed?style=for-the-badge&color=blueviolet&logo=github)](https://github.com/keroraed)
-[![Years Badge](https://badges.pufler.dev/years/keroraed?style=for-the-badge&color=blueviolet)](https://github.com/keroraed)
+[![GitHub User's stars](https://img.shields.io/github/stars/keroraed?style=for-the-badge&color=blueviolet&logo=github)](https://github.com/keroraed)
 
 </div>
 
