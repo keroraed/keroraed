@@ -114,18 +114,12 @@ const Kerolos = {
 
 ---
 
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=keroraed&bg_color=1a1b27&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-
----
-
 ## 💼 Featured Projects
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=keroraed&repo=YOUR_REPO_NAME_1&theme=tokyonight&hide_border=true)](https://github.com/keroraed/YOUR_REPO_NAME_1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=keroraed&repo=YOUR_REPO_NAME_2&theme=tokyonight&hide_border=true)](https://github.com/keroraed/YOUR_REPO_NAME_2)
+[![PharmAssist](https://github-readme-stats.vercel.app/api/pin/?username=keroraed&repo=PharmAssist&theme=tokyonight&hide_border=true)](https://github.com/keroraed/PharmAssist)
+[![AI](https://github-readme-stats.vercel.app/api/pin/?username=keroraed&repo=AI&theme=tokyonight&hide_border=true)](https://github.com/keroraed/AI)
 
 </div>
 
@@ -149,7 +143,7 @@ const Kerolos = {
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -171,6 +165,6 @@ const Kerolos = {
 
 ### ⭐ From [keroraed](https://github.com/keroraed) with 💜
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%" alt="Footer Wave"/>
 
 </div>
