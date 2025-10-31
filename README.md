@@ -3,6 +3,9 @@
 <!-- Animated Typing Header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Kerolos+Raed;Backend+Developer+%7C+Software+Engineer;Building+Scalable+Solutions+%F0%9F%9A%80;ITI+Graduate+%7C+Problem+Solver+%F0%9F%92%A1" alt="Typing SVG" />
 
+<!-- Animated wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Digital%20Space&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
 </div>
 
 <!-- Snake Animation -->
@@ -26,14 +29,22 @@
 
 ---
 
-##  About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```typescript
 const Kerolos = {
     pronouns: "He" | "Him",
     location: "Cairo, Egypt ",
-    code: ["C#", "JavaScript", "TypeScript", "PHP", "SQL"],
-    askMeAbout: [".NET", "Web APIs", "Angular", "React", "Node.js"],
+    currentRole: "Backend Developer",
+    education: "ITI Graduate - Software Engineering",
+    
+    code: {
+        languages: ["C#", "JavaScript", "TypeScript", "PHP", "SQL"],
+        expertise: [".NET", "Web APIs", "Angular", "React", "Node.js"]
+    },
+    
     technologies: {
         backend: {
             csharp: [".NET Core", "ASP.NET", "Entity Framework", "LINQ"],
@@ -48,10 +59,24 @@ const Kerolos = {
         tools: ["Git", "Docker", "Postman", "VS Code", "Visual Studio"],
         architecture: ["Microservices", "REST APIs", "MVC", "Clean Architecture"]
     },
+    
     currentFocus: "Building scalable backend systems & exploring cloud technologies ",
+    lifePhilosophy: "Code, Coffee, Create, Repeat ",
     funFact: "I debug with console.log() and I'm not ashamed! "
 };
 ```
+
+<div align="center">
+  
+###  What I'm Up To
+
+ Currently working on **E-commerce Backend Solutions**  
+ Learning **Microservices Architecture & Cloud Technologies**  
+ Looking to collaborate on **Open Source .NET Projects**  
+ Ask me about **ASP.NET Core, Entity Framework, REST APIs**  
+ Fun fact: **I turn coffee into code!** 
+
+</div>
 
 ---
 
@@ -164,10 +189,14 @@ const Kerolos = {
 ---
 
 <div align="center">
-  
+
 ###  "Code is like humor. When you have to explain it, it's bad!"  Cory House
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 ###  From [keroraed](https://github.com/keroraed) with 
+
+**Thanks for visiting! Let's build something amazing together! **
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%"/>
 
