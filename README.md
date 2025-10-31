@@ -29,54 +29,76 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> About Me
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/> About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```typescript
-const Kerolos = {
-    pronouns: "He" | "Him",
-    location: "Cairo, Egypt ",
-    currentRole: "Backend Developer",
-    education: "ITI Graduate - Software Engineering",
-    
-    code: {
-        languages: ["C#", "JavaScript", "TypeScript", "PHP", "SQL"],
-        expertise: [".NET", "Web APIs", "Angular", "React", "Node.js"]
-    },
-    
-    technologies: {
-        backend: {
-            csharp: [".NET Core", "ASP.NET", "Entity Framework", "LINQ"],
-            nodejs: ["Express", "NestJS"],
-            php: ["Laravel", "Core PHP"]
-        },
-        frontend: {
-            js: ["Angular", "React", "Vue"],
-            css: ["Bootstrap", "Tailwind", "Material-UI"]
-        },
-        databases: ["SQL Server", "MySQL", "MongoDB", "PostgreSQL"],
-        tools: ["Git", "Docker", "Postman", "VS Code", "Visual Studio"],
-        architecture: ["Microservices", "REST APIs", "MVC", "Clean Architecture"]
-    },
-    
-    currentFocus: "Building scalable backend systems & exploring cloud technologies ",
-    lifePhilosophy: "Code, Coffee, Create, Repeat ",
-    funFact: "I debug with console.log() and I'm not ashamed! "
-};
-```
+<br>
 
-<div align="center">
-  
+###  Who Am I?
+
+ **Backend Developer** passionate about building scalable solutions  
+ Based in **Cairo, Egypt**   
+ **ITI Graduate** - Software Engineering Track  
+ Turning **coffee into code** since my first "Hello World"
+
 ###  What I'm Up To
 
- Currently working on **E-commerce Backend Solutions**  
- Learning **Microservices Architecture & Cloud Technologies**  
- Looking to collaborate on **Open Source .NET Projects**  
+ Currently crafting **E-commerce Backend Solutions**  
+ Deep diving into **Microservices Architecture & Cloud Technologies**  
+ Open to collaborate on **Open Source .NET Projects**  
  Ask me about **ASP.NET Core, Entity Framework, REST APIs**  
- Fun fact: **I turn coffee into code!** 
+ Fun fact: **I debug with console.log() and I'm not ashamed!** 
 
-</div>
+###  My Tech Journey
+
+```
+Backend Development    95%
+Frontend Development    75%
+Database Design    85%
+Cloud & DevOps    60%
+```
+
+###  Core Expertise
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60" />
+      <br><strong>C# & .NET</strong>
+      <br>ASP.NET Core, Entity Framework
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" />
+      <br><strong>JavaScript</strong>
+      <br>Node.js, Express, React
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60" height="60" />
+      <br><strong>Databases</strong>
+      <br>SQL Server, MongoDB, MySQL
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" />
+      <br><strong>DevOps</strong>
+      <br>Docker, Git, CI/CD
+    </td>
+  </tr>
+</table>
+
+###  Philosophy
+
+> **"Code is like humor. When you have to explain it, it's bad!"**  Cory House
+
+ **My Mantra:** Code, Coffee, Create, Repeat   
+ **Approach:** Clean Code, Best Practices, Continuous Learning  
+ **Goal:** Build solutions that make a difference
+
+<br clear="both"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
@@ -189,8 +211,6 @@ const Kerolos = {
 ---
 
 <div align="center">
-
-###  "Code is like humor. When you have to explain it, it's bad!"  Cory House
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
