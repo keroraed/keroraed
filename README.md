@@ -124,8 +124,8 @@ const Kerolos = {
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=keroraed&repo=YOUR_REPO_NAME_1&theme=tokyonight&hide_border=true)](https://github.com/keroraed/YOUR_REPO_NAME_1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=keroraed&repo=YOUR_REPO_NAME_2&theme=tokyonight&hide_border=true)](https://github.com/keroraed/YOUR_REPO_NAME_2)
+[![PharmAssist](https://github-readme-stats.vercel.app/api/pin/?username=keroraed&repo=PharmAssist&theme=tokyonight&hide_border=true)](https://github.com/keroraed/PharmAssist)
+[![AI](https://github-readme-stats.vercel.app/api/pin/?username=keroraed&repo=AI&theme=tokyonight&hide_border=true)](https://github.com/keroraed/AI)
 
 </div>
 
