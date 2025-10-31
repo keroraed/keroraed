@@ -19,7 +19,7 @@
 
 <div align="center">
   
-###  Fresh Graduate | ITI Certified | Cairo, Egypt 
+###  Fresh Graduate | ITIan | Cairo, Egypt 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=keroraed&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/keroraed)
 [![GitHub followers](https://img.shields.io/github/followers/keroraed?style=for-the-badge&color=blueviolet&logo=github)](https://github.com/keroraed)
@@ -41,7 +41,7 @@
 
  **Backend Developer** passionate about building scalable solutions  
  Based in **Cairo, Egypt**   
- **ITI Graduate** - Software Engineering Track  
+ **ITI Student** - Open Source Applications Development Track  
  Turning **coffee into code** since my first "Hello World"
 
 ###  What I'm Up To
@@ -52,14 +52,6 @@
  Ask me about **ASP.NET Core, Entity Framework, REST APIs**  
  Fun fact: **I debug with console.log() and I'm not ashamed!** 
 
-###  My Tech Journey
-
-```
-Backend Development    95%
-Frontend Development    75%
-Database Design    85%
-Cloud & DevOps    60%
-```
 
 ###  Core Expertise
 
